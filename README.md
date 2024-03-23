@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aoaristides)](https://github.com/aoaristides)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonorionearistides/)](https://www.linkedin.com/in/andersonorionearistides/)
+ <img src="https://img.shields.io/static/v1?label=Github&message=@aoaristides&color=8257E5&labelColor=000000" alt="@aoaristides" />
  <img src="https://img.shields.io/static/v1?label=Tipo&message=Desafio&color=8257E5&labelColor=000000" alt="Desafio" />
 </p>
 
