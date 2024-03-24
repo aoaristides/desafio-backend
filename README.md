@@ -12,7 +12,7 @@ Projeto elaborado para solucionar [esse desafio](https://github.com/PicPay/picpa
 ## Tecnologias
  
 - [Spring Boot](https://spring.io/projects/spring-boot)
-- [Spring Data JDBC](https://spring.io/projects/spring-data-jdbc)
+- [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Spring for Apache Kafka](https://spring.io/projects/spring-kafka)
 - [Docker Compose](https://docs.docker.com/compose/)
 - [H2](https://www.h2database.com/html/main.html)
